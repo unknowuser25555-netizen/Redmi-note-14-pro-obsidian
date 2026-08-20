@@ -9,6 +9,12 @@ Tested on Redmi Note 14 Pro 4G (Obsidian):
 - Wi-Fi: ✅
 - Hotspot: ✅
 
+### Kernel Download
+
+MediaFire mirror:
+
+https://www.mediafire.com/file/mls2sr0ppdm5uhp/6.12.30-android16-2025-07-AnyKernel3.zip/file
+
 ### Original Source
 
 Kernel provided by WildKernels:
@@ -17,12 +23,12 @@ https://github.com/WildKernels/GKI_KernelSU_SUSFS
 
 Full credit goes to WildKernels and the original kernel contributors.
 
-The kernel is referenced here for development/testing purposes and is not claimed as our own work.
+The kernel is not our own work. It is shared here for development and testing purposes, with credit given to the original developers.
 
 ### For Obsidian Developers
 
-The tested 6.12.30 kernel is available from the original WildKernels repository.
+The tested 6.12.30 kernel is available above, along with the original WildKernels source.
 
-If this kernel is useful for development, please use the original source and begin work on the Obsidian device tree, custom kernel, custom recovery, and custom ROMs.
+If useful, please use this as a starting point for Obsidian development, including the device tree, kernel, custom recovery, and custom ROM development.
 
-Hopefully this can help move Redmi Note 14 Pro 4G (Obsidian) development forward. 
+Hopefully this helps move Redmi Note 14 Pro 4G (Obsidian) development forward. 🚀
