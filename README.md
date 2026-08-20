@@ -1,38 +1,28 @@
-# Redmi Note 14 Pro 4G — Obsidian
+## Tested Kernel
 
-Development resources and research for the Redmi Note 14 Pro 4G (Obsidian).
+Tested on Redmi Note 14 Pro 4G (Obsidian):
 
-## Current Findings
-
-A working Android 16 6.12.30 kernel has been tested on Obsidian.
-
-### Tested
-
+- Kernel: 6.12.30
+- Android: 16
+- Build: 2025-07
 - Boot: ✅
 - Wi-Fi: ✅
 - Hotspot: ✅
-- Basic functionality: ✅
 
-The kernel was obtained from **WildKernels**. Full credit goes to the original developers and contributors.
+### Original Source
 
-## Development Resources
+Kernel provided by WildKernels:
 
-This repository is intended to collect information and resources that may help with:
+https://github.com/WildKernels/GKI_KernelSU_SUSFS
 
-- Device tree development
-- Kernel development
-- Vendor research
-- Custom ROM development
-- Custom recovery development
+Full credit goes to WildKernels and the original kernel contributors.
 
-The goal is to help the Obsidian development community move forward while official kernel sources and other resources remain unavailable.
+The kernel is referenced here for development/testing purposes and is not claimed as our own work.
 
-## Third-Party Work
+### For Obsidian Developers
 
-This repository does not claim ownership of third-party kernels, code, or other materials.
+The tested 6.12.30 kernel is available from the original WildKernels repository.
 
-All third-party work remains the property of its original authors and projects. Proper credit and links to the original sources will be provided whenever applicable.
+If this kernel is useful for development, please use the original source and begin work on the Obsidian device tree, custom kernel, custom recovery, and custom ROMs.
 
-## Contributions
-
-Developers and contributors are welcome to share findings, device-tree work, kernel information, vendor information, fixes, and other useful development resources for Obsidian.
+Hopefully this can help move Redmi Note 14 Pro 4G (Obsidian) development forward. 
